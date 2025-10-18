@@ -1,7 +1,7 @@
 # Servicio Web de Registro e Inicio de Sesión
 
 Este proyecto es un servicio web hecho con **Node.js** y **Express**.  
-El proyecto Permite registrar usuarios y realizar inicio de sesión verificando el nombre de usuario y la contraseña.
+Permite registrar usuarios y realizar inicio de sesión verificando el nombre de usuario y la contraseña.
 
 ---
 
